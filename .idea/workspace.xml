@@ -1,9 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c18e2f70-2ff9-4737-8f08-4fb04f1d6eae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bar/nav-drawer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bar/router/list-item-link/list-item-link.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bar/router/router-breadcrumbs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bar/styles/useStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/crimes/crimes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/nikah/nikah.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/providing/providing.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/punishment/punishment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/talak/talak.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/trade/trade.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/Types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bar/router/list-item-link/item/item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/http.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dp0iG9fLLakzpEU2YnbCKTy8Ie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/content/trade" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\bar\styles" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\bar\router\list-item-link" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\bar\router" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\content\trade" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\content\talak" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\content\punishment" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\content\providing" />
+      <recent name="C:\Users\muhar\WebstormProjects\edu\src\components\content\nikah" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c18e2f70-2ff9-4737-8f08-4fb04f1d6eae" name="Default Changelist" comment="" />
+      <created>1593106852188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593106852188</updated>
+      <workItem from="1593106853528" duration="2495000" />
+      <workItem from="1593272824704" duration="18031000" />
+      <workItem from="1594061767830" duration="5167000" />
+      <workItem from="1594231929916" duration="1407000" />
+      <workItem from="1594326932424" duration="1729000" />
+      <workItem from="1594384747459" duration="14082000" />
+      <workItem from="1594464356821" duration="5414000" />
+      <workItem from="1594544918969" duration="3726000" />
+      <workItem from="1594580958193" duration="150000" />
+      <workItem from="1594581509147" duration="451000" />
+      <workItem from="1594588057636" duration="1125000" />
+      <workItem from="1594667672854" duration="726000" />
+      <workItem from="1594886433043" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1593368096243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593368096243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594472834590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594472834590" />
+    <state x="406" y="11" key="CommitChangelistDialog2" timestamp="1593368094005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593368094005" />
+    <state x="638" y="311" key="Github.ShareDialog" timestamp="1594886462441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="311" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594886462441" />
+    <state width="1515" height="197" key="GridCell.Tab.0.bottom" timestamp="1594715027483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594715027483" />
+    <state width="1515" height="197" key="GridCell.Tab.0.center" timestamp="1594715027483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594715027483" />
+    <state width="1515" height="197" key="GridCell.Tab.0.left" timestamp="1594715027483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594715027483" />
+    <state width="1515" height="197" key="GridCell.Tab.0.right" timestamp="1594715027483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594715027483" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1593368113556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593368113556" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1593276332859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593276332859" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594561574467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594561574467" />
   </component>
 </project>
